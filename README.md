@@ -70,5 +70,9 @@ I thrive in collaborative environments and love to explore new technologies and 
 
 Feel free to reach out to me via email at <tibomertens25@gmail.com> to discuss any opportunities or collaborations.
 
+## Fun stuff
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username)
 ![Profile Views](https://komarev.com/ghpvc/?username=TiboMertens&color=blueviolet)
 
