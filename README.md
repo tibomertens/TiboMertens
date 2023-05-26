@@ -72,7 +72,7 @@ Feel free to reach out to me via email at <tibomertens25@gmail.com> to discuss a
 
 ## Fun stuff
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiboMertens)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username)
 ![Profile Views](https://komarev.com/ghpvc/?username=TiboMertens&color=blueviolet)
 
