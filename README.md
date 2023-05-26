@@ -11,20 +11,33 @@ I thrive in collaborative environments and love to explore new technologies and 
 
 ## Skills
 
+### programming
+
 [![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white)](https://your-website-url)
 [![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)](https://your-website-url)
 [![PHP](https://img.shields.io/badge/PHP-purple?style=flat-square&logo=php&logoColor=white)](https://your-website-url)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://your-website-url)
 [![React Native](https://img.shields.io/badge/React_Native-blue?style=flat-square&logo=react&logoColor=white)](https://your-website-url)
 [![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=c%2B%2B&logoColor=white)](https://your-website-url)
-[![Arduino](https://img.shields.io/badge/Arduino-blue?style=flat-square&logo=arduino&logoColor=white)](https://your-website-url)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+### design
 [![Figma](https://img.shields.io/badge/Figma-purple?style=flat-square&logo=figma&logoColor=white)](https://your-website-url)
 [![Illustrator](https://img.shields.io/badge/Illustrator-orange?style=flat-square&logo=adobe-illustrator&logoColor=white)](https://your-website-url)
 [![InDesign](https://img.shields.io/badge/InDesign-red?style=flat-square&logo=adobe-indesign&logoColor=white)](https://your-website-url)
 
-### Additional skills
+### Project Management
+[![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)](https://trello.com/)
 
-- P5.js, Tailwind CSS, Internet of Things, Lora Network
+### Frameworks & libraries
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![P5.js](https://img.shields.io/badge/P5.js-grey?style=flat-square&logo=p5.js&logoColor=white)](https://p5js.org/)
+
+### Other 
+[![Arduino](https://img.shields.io/badge/Arduino-blue?style=flat-square&logo=arduino&logoColor=white)](https://your-website-url)
+[![IoT](https://img.shields.io/badge/IoT-0088CC?style=flat-square&logo=internet-of-things&logoColor=white)](https://en.wikipedia.org/wiki/Internet_of_things)
+[![LoRa Network](https://img.shields.io/badge/LoRa_Network-2E7D32?style=flat-square&logo=lora&logoColor=white)](https://lora-alliance.org/)
+[![Markdown](https://img.shields.io/badge/Markdown-lightgrey?style=flat-square)](https://daringfireball.net/projects/markdown/)
 
 ## Projects
 
@@ -55,3 +68,6 @@ I thrive in collaborative environments and love to explore new technologies and 
 ## Contact
 
 Feel free to reach out to me via email at <tibomertens25@gmail.com> to discuss any opportunities or collaborations.
+
+![Profile Views](https://komarev.com/ghpvc/?username=TiboMertens&color=blueviolet)
+
