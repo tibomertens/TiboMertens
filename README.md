@@ -45,7 +45,12 @@ I thrive in collaborative environments and love to explore new technologies and 
 ### Promptopolis
 
 - Description: Promptopolis is a platform where you can share prompts trained on AI models like Dall-E. Other users can purchase these prompts using credits.
-- Technologies: HTML, Tailwind CSS, PHP
+- Technologies: [![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white)](https://your-website-url)
+[![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)](https://your-website-url)
+[![PHP](https://img.shields.io/badge/PHP-purple?style=flat-square&logo=php&logoColor=white)](https://your-website-url)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://your-website-url)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 - GitHub Repository: [Promptopolis](https://github.com/TiboMertens/Promptopolis)
 
 ### SensorSprout
@@ -66,13 +71,15 @@ I thrive in collaborative environments and love to explore new technologies and 
 ### CSS Zen Garden
 
 - Description: My own iteration of the popular CSS Zen Garden.
-- Technologies: CSS
+- Technologies: [![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)](https://your-website-url)
 - GitHub Repository: [CSS Zen Garden](https://github.com/TiboMertens/zengarden)
 
 ### F1 Cars
 
 - Description: A school project to display my React Native skills.
-- Technologies: HTML, CSS, React Native
+- Technologies: [![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white)](https://your-website-url)
+[![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)](https://your-website-url)
+[![React Native](https://img.shields.io/badge/React_Native-blue?style=flat-square&logo=react&logoColor=white)](https://your-website-url)
 - GitHub Repository: [F1 Car Shop](https://github.com/TiboMertens/F1car-shop)
 
 ## Contact
