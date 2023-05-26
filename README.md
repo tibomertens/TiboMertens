@@ -28,7 +28,7 @@ I thrive in collaborative environments and love to explore new technologies and 
 
 ### Project Management
 [![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)](https://trello.com/)
-[![Scrumdesk](style=flat-square&logo=lora&logoColor=white)](https://scrumdesk.com/)
+[![ScrumDesk](https://img.shields.io/badge/ScrumDesk-black?style=flat-square&logo=scrumsdesk&logoColor=green)](https://www.scrumdesk.com/)
 
 ### Frameworks & libraries
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
