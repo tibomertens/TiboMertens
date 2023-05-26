@@ -23,7 +23,7 @@ I thrive in collaborative environments and love to explore new technologies and 
 
 ### Design
 [![Figma](https://img.shields.io/badge/Figma-purple?style=flat-square&logo=figma&logoColor=white)](https://tibomertens.be)
-[![Illustrator](https://img.shields.io/badge/Illustrator-orange?style=flat-square&logo=adobe-illustrator&logoColor=white)](https://tibomertens.be
+[![Illustrator](https://img.shields.io/badge/Illustrator-orange?style=flat-square&logo=adobe-illustrator&logoColor=white)](https://tibomertens.be)
 [![InDesign](https://img.shields.io/badge/InDesign-red?style=flat-square&logo=adobe-indesign&logoColor=white)](https://tibomertens.be)
 
 ### Project Management
