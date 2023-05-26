@@ -5,7 +5,9 @@
 
 ## About Me
 
-I am a passionate designer-developer with expertise in both front-end and back-end web development. With a strong focus on back-end development, I enjoy building dynamic and responsive websites.  I thrive in collaborative environments and love to explore new technologies and learn new things.
+I am a passionate designer-developer with expertise in both front-end and back-end web development. With a strong focus on back-end development, I enjoy building dynamic and responsive websites. 
+
+I thrive in collaborative environments and love to explore new technologies and learn new things.
 
 ## Skills
 
