@@ -51,7 +51,16 @@ I thrive in collaborative environments and love to explore new technologies and 
 ### SensorSprout
 
 - Description: SensorSprout is an app that allows users to create their own vegetable garden. Users can add sensors to their garden to measure soil moisture, temperature, light intensity, CO2 levels, and oxygen. The app provides feedback based on the sensor data and the selected plants, helping users grow their plants in the best possible way.
-- Technologies: HTML, CSS, PHP, C++, Arduino, IoT, LoRa Network
+- Technologies: [![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white)](https://your-website-url)
+[![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)](https://your-website-url)
+[![PHP](https://img.shields.io/badge/PHP-purple?style=flat-square&logo=php&logoColor=white)](https://your-website-url)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://your-website-url)
+[![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=c%2B%2B&logoColor=white)](https://your-website-url)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Arduino](https://img.shields.io/badge/Arduino-blue?style=flat-square&logo=arduino&logoColor=white)](https://your-website-url)
+[![IoT](https://img.shields.io/badge/IoT-0088CC?style=flat-square&logo=internet-of-things&logoColor=white)](https://en.wikipedia.org/wiki/Internet_of_things)
+[![LoRa Network](https://img.shields.io/badge/LoRa_Network-2E7D32?style=flat-square&logo=lora&logoColor=white)](https://lora-alliance.org/)
 - GitHub Repository: [SensorSprout](https://github.com/TiboMertens/sensorSprout)
 
 ### CSS Zen Garden
