@@ -11,20 +11,20 @@ I thrive in collaborative environments and love to explore new technologies and 
 
 ## Skills
 
-### programming
+### Programming
 
-[![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white)](https://your-website-url)
-[![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)](https://your-website-url)
-[![PHP](https://img.shields.io/badge/PHP-purple?style=flat-square&logo=php&logoColor=white)](https://your-website-url)
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://your-website-url)
-[![React Native](https://img.shields.io/badge/React_Native-blue?style=flat-square&logo=react&logoColor=white)](https://your-website-url)
-[![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=c%2B%2B&logoColor=white)](https://your-website-url)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white)](https://tibomertens.be)
+[![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)](https://https://tibomertens.be)
+[![PHP](https://img.shields.io/badge/PHP-purple?style=flat-square&logo=php&logoColor=white)](https://tibomertens.be)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://tibomertens.be)
+[![React Native](https://img.shields.io/badge/React_Native-blue?style=flat-square&logo=react&logoColor=white)](https://tibomertens.be)
+[![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=c%2B%2B&logoColor=white)](https://tibomertens.be)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://tibomertens.be)
 
-### design
-[![Figma](https://img.shields.io/badge/Figma-purple?style=flat-square&logo=figma&logoColor=white)](https://your-website-url)
-[![Illustrator](https://img.shields.io/badge/Illustrator-orange?style=flat-square&logo=adobe-illustrator&logoColor=white)](https://your-website-url)
-[![InDesign](https://img.shields.io/badge/InDesign-red?style=flat-square&logo=adobe-indesign&logoColor=white)](https://your-website-url)
+### Design
+[![Figma](https://img.shields.io/badge/Figma-purple?style=flat-square&logo=figma&logoColor=white)](https://tibomertens.be)
+[![Illustrator](https://img.shields.io/badge/Illustrator-orange?style=flat-square&logo=adobe-illustrator&logoColor=white)](https://tibomertens.be
+[![InDesign](https://img.shields.io/badge/InDesign-red?style=flat-square&logo=adobe-indesign&logoColor=white)](https://tibomertens.be)
 
 ### Project Management
 [![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)](https://trello.com/)
