@@ -1,4 +1,4 @@
-# Hello, I'm Tibo
+# Hi, I'm Tibo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tibo-mertens-5516bb233/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_tibo_m_/)
