@@ -11,6 +11,8 @@ I thrive in collaborative environments and love to explore new technologies and 
 
 ## Skills
 
+[![HTML](https://img.shields.io/badge/HTML-Code-orange?style=flat-square&logo=html5&logoColor=white)](https://your-website-url)
+
 - Programming Languages: HTML, CSS, JavaScript, PHP, React Native, C++ (beginner level)
 - Frameworks and Libraries: P5.js, Tailwind CSS
 - Tools and Technologies: Arduino, Internet of Things, LoRa Network
