@@ -12,11 +12,19 @@ I thrive in collaborative environments and love to explore new technologies and 
 ## Skills
 
 [![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white)](https://your-website-url)
+[![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)](https://your-website-url)
+[![PHP](https://img.shields.io/badge/PHP-purple?style=flat-square&logo=php&logoColor=white)](https://your-website-url)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://your-website-url)
+[![React Native](https://img.shields.io/badge/React_Native-blue?style=flat-square&logo=react&logoColor=white)](https://your-website-url)
+[![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=c%2B%2B&logoColor=white)](https://your-website-url)
+[![Arduino](https://img.shields.io/badge/Arduino-blue?style=flat-square&logo=arduino&logoColor=white)](https://your-website-url)
+[![Figma](https://img.shields.io/badge/Figma-purple?style=flat-square&logo=figma&logoColor=white)](https://your-website-url)
+[![Illustrator](https://img.shields.io/badge/Illustrator-orange?style=flat-square&logo=adobe-illustrator&logoColor=white)](https://your-website-url)
+[![InDesign](https://img.shields.io/badge/InDesign-red?style=flat-square&logo=adobe-indesign&logoColor=white)](https://your-website-url)
 
-- Programming Languages: HTML, CSS, JavaScript, PHP, React Native, C++ (beginner level)
-- Frameworks and Libraries: P5.js, Tailwind CSS
-- Tools and Technologies: Arduino, Internet of Things, LoRa Network
-- Design: Figma, Illustrator, InDesign, Adobe XD
+### Additional skills
+
+- P5.js, Tailwind CSS, Internet of Things, Lora Network
 
 ## Projects
 
