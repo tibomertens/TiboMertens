@@ -89,6 +89,5 @@ Feel free to reach out to me via email at <tibomertens25@gmail.com> to discuss a
 ## Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiboMertens&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiboMertens&show_icons=true&theme=radical)  
 ![Profile Views](https://komarev.com/ghpvc/?username=TiboMertens&color=blueviolet)
 
