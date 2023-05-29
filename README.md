@@ -40,7 +40,7 @@ I thrive in collaborative environments and love to explore new technologies and 
 [![LoRa Network](https://img.shields.io/badge/LoRa_Network-2E7D32?style=flat-square&logo=lora&logoColor=white)](https://lora-alliance.org/)
 [![Markdown](https://img.shields.io/badge/Markdown-lightgrey?style=flat-square)](https://daringfireball.net/projects/markdown/)
 
-## Projects
+## My favourite Projects
 
 ### Promptopolis
 
