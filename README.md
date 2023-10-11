@@ -37,10 +37,6 @@ Currently looking for a full-stack developer internship!
 [![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)](https://trello.com/)
 [![ScrumDesk](https://img.shields.io/badge/ScrumDesk-black?style=flat-square&logo=scrumsdesk&logoColor=green)](https://www.scrumdesk.com/)
 
-### Frameworks & libraries
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![P5.js](https://img.shields.io/badge/P5.js-grey?style=flat-square&logo=p5.js&logoColor=white)](https://p5js.org/)
-
 ### Other 
 [![Arduino](https://img.shields.io/badge/Arduino-blue?style=flat-square&logo=arduino&logoColor=white)](https://your-website-url)
 [![IoT](https://img.shields.io/badge/IoT-0088CC?style=flat-square&logo=internet-of-things&logoColor=white)](https://en.wikipedia.org/wiki/Internet_of_things)
