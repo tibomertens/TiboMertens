@@ -21,6 +21,11 @@ I thrive in collaborative environments and love to explore new technologies and 
 [![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=c%2B%2B&logoColor=white)](https://tibomertens.be)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://tibomertens.be)
 
+### Currently learning
+[![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-green?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
 ### Design
 [![Figma](https://img.shields.io/badge/Figma-purple?style=flat-square&logo=figma&logoColor=white)](https://tibomertens.be)
 [![Illustrator](https://img.shields.io/badge/Illustrator-orange?style=flat-square&logo=adobe-illustrator&logoColor=white)](https://tibomertens.be)
