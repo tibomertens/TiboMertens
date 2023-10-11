@@ -5,9 +5,11 @@
 
 ## About Me
 
-I am a passionate full-stack developer with expertise in both front-end and back-end web development. With a strong focus on back-end development, I enjoy building dynamic and responsive websites. 
+I'm a full-stack developer with a passion for crafting digital experiences that push the boundaries of innovation. With a background in coding and a flair for design, I'm dedicated to bringing ideas to life through web and mobile applications. What sets me apart is my ability to thrive in a team environment, collaborating seamlessly with diverse talents to achieve common goals.
 
-I thrive in collaborative environments and love to explore new technologies and learn new things.
+Beyond the world of technology, I'm a devoted football fan, and my weekends often revolve around cheering for my favorite team. Off the field, I find solace in long walks with my four-legged companion, my dog Flynn. These moments provide the perfect balance to my tech-driven life, allowing me to recharge my creativity and stay connected to the world around me.
+
+Currently looking for a full-stack developer internship!
 
 ## Skills
 
