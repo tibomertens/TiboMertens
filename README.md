@@ -13,7 +13,7 @@ Currently looking for a full-stack developer internship!
 
 ## Skills
 
-### Programming languages
+### Programming
 
 [![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white)](https://tibomertens.be)
 [![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)](https://https://tibomertens.be)
