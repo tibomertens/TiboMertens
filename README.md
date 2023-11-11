@@ -27,6 +27,7 @@ Currently looking for a full-stack developer internship!
 [![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-green?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)](https://threejs.org/)
 
 ### Design
 [![Figma](https://img.shields.io/badge/Figma-purple?style=flat-square&logo=figma&logoColor=white)](https://tibomertens.be)
