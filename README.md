@@ -10,38 +10,39 @@ I'm a full-stack developer with a passion for crafting digital experiences that 
 
 Beyond the world of technology, I'm a devoted football fan, and my weekends often revolve around cheering for my favorite team. Off the field, I find solace in long walks with my four-legged companion, my dog Flynn. These moments provide the perfect balance to my tech-driven life, allowing me to recharge my creativity and stay connected to the world around me.
 
-Currently looking for a full-stack developer internship!
-
 ## Skills
 
-### Programming
+### Backend
 
-[![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white)](https://tibomertens.be)
-[![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)](https://https://tibomertens.be)
-[![PHP](https://img.shields.io/badge/PHP-purple?style=flat-square&logo=php&logoColor=white)](https://tibomertens.be)
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://tibomertens.be)
-[![React Native](https://img.shields.io/badge/React_Native-blue?style=flat-square&logo=react&logoColor=white)](https://tibomertens.be)
-[![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=c%2B%2B&logoColor=white)](https://tibomertens.be)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://tibomertens.be)
-[![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-green?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)](https://threejs.org/)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### CMS
+
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ### Design
-[![Figma](https://img.shields.io/badge/Figma-purple?style=flat-square&logo=figma&logoColor=white)](https://tibomertens.be)
-[![Illustrator](https://img.shields.io/badge/Illustrator-orange?style=flat-square&logo=adobe-illustrator&logoColor=white)](https://tibomertens.be)
-[![InDesign](https://img.shields.io/badge/InDesign-red?style=flat-square&logo=adobe-indesign&logoColor=white)](https://tibomertens.be)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Project Management
-[![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)](https://trello.com/)
-[![ScrumDesk](https://img.shields.io/badge/ScrumDesk-black?style=flat-square&logo=scrumsdesk&logoColor=green)](https://www.scrumdesk.com/)
-
-### Other 
-[![Arduino](https://img.shields.io/badge/Arduino-blue?style=flat-square&logo=arduino&logoColor=white)](https://your-website-url)
-[![IoT](https://img.shields.io/badge/IoT-0088CC?style=flat-square&logo=internet-of-things&logoColor=white)](https://en.wikipedia.org/wiki/Internet_of_things)
-[![LoRa Network](https://img.shields.io/badge/LoRa_Network-2E7D32?style=flat-square&logo=lora&logoColor=white)](https://lora-alliance.org/)
-[![Markdown](https://img.shields.io/badge/Markdown-lightgrey?style=flat-square)](https://daringfireball.net/projects/markdown/)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ## My favourite Projects
 
@@ -76,14 +77,6 @@ Currently looking for a full-stack developer internship!
 - Description: My own iteration of the popular CSS Zen Garden.
 - Technologies: [![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)](https://your-website-url)
 - GitHub Repository: [CSS Zen Garden](https://github.com/TiboMertens/zengarden)
-
-### F1 Cars
-
-- Description: A school project to display my React Native skills.
-- Technologies: [![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white)](https://your-website-url)
-[![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)](https://your-website-url)
-[![React Native](https://img.shields.io/badge/React_Native-blue?style=flat-square&logo=react&logoColor=white)](https://your-website-url)
-- GitHub Repository: [F1 Car Shop](https://github.com/TiboMertens/F1car-shop)
 
 ## Contact
 
