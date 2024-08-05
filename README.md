@@ -58,6 +58,19 @@ Beyond the world of technology, I'm a devoted football fan, and my weekends ofte
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 - GitHub Repository: [Promptopolis](https://github.com/TiboMertens/Promptopolis)
 
+### CODY
+
+- Description: A Node.js web application that based on a home's details delivers a custom-made plan to increase their EPC-label.
+- Technologies: [![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white)](https://your-website-url)
+[![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)](https://your-website-url)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://your-website-url)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+- GitHub Repository backend: [Promptopolis](https://github.com/tibomertens/cody-backend)
+- GitHub Repository frontend: [Promptopolis](https://github.com/tibomertens/cody-frontend)
+
 ### SensorSprout
 
 - Description: SensorSprout is an app that allows users to create their own vegetable garden. Users can add sensors to their garden to measure soil moisture, temperature, light intensity, CO2 levels, and oxygen. The app provides feedback based on the sensor data and the selected plants, helping users grow their plants in the best possible way.
@@ -72,12 +85,6 @@ Beyond the world of technology, I'm a devoted football fan, and my weekends ofte
 [![IoT](https://img.shields.io/badge/IoT-0088CC?style=flat-square&logo=internet-of-things&logoColor=white)](https://en.wikipedia.org/wiki/Internet_of_things)
 [![LoRa Network](https://img.shields.io/badge/LoRa_Network-2E7D32?style=flat-square&logo=lora&logoColor=white)](https://lora-alliance.org/)
 - GitHub Repository: [SensorSprout](https://github.com/TiboMertens/sensorSprout)
-
-### CSS Zen Garden
-
-- Description: My own iteration of the popular CSS Zen Garden.
-- Technologies: [![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)](https://your-website-url)
-- GitHub Repository: [CSS Zen Garden](https://github.com/TiboMertens/zengarden)
 
 ## Contact
 
