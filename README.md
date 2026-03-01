@@ -68,8 +68,8 @@ Beyond the world of technology, I'm a devoted football fan, and my weekends ofte
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-- GitHub Repository backend: [Promptopolis](https://github.com/tibomertens/cody-backend)
-- GitHub Repository frontend: [Promptopolis](https://github.com/tibomertens/cody-frontend)
+- GitHub Repository backend: [Cody-backend](https://github.com/tibomertens/cody-backend)
+- GitHub Repository frontend: [Cody-frontend](https://github.com/tibomertens/cody-frontend)
 
 ### SensorSprout
 
