@@ -71,6 +71,16 @@ Beyond the world of technology, I'm a devoted football fan, and my weekends ofte
 - GitHub Repository backend: [Cody-backend](https://github.com/tibomertens/cody-backend)
 - GitHub Repository frontend: [Cody-frontend](https://github.com/tibomertens/cody-frontend)
 
+### Swear London 3D configurator
+
+- Description: An interactive 3D product configurator built with Three.js — swap materials, colors, and components on a photorealistic shoe model in real time. Built to explore the boundaries of what's possible with WebGL in the browser.
+- Technologies: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+- GitHub Repository: [Swear London](https://github.com/tibomertens/SWEARLondon-configurator)
+- View project: [Live](https://swear-london-configurator-mbxr6zdo3-tibos-projects-99f81519.vercel.app/)
+
 ### SensorSprout
 
 - Description: SensorSprout is an app that allows users to create their own vegetable garden. Users can add sensors to their garden to measure soil moisture, temperature, light intensity, CO2 levels, and oxygen. The app provides feedback based on the sensor data and the selected plants, helping users grow their plants in the best possible way.
